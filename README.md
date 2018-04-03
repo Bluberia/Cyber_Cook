@@ -1,7 +1,7 @@
 
           -------- My_Cook -------
 
- My_cook is a restaurant simulation game developed in 2018 by Romane Bézier & Esther Bailloux.
+ My_cook is a restaurant simulation game developed in 2018 by Romane Bézier & Esther Bailloux. Developed in CSFML.
 
 
           -------- Usage -------
